@@ -1,0 +1,14 @@
+c:\Projects\ConsoleApp.HelloWrold\bin\Debug\net8.0\ConsoleApp.HelloWrold.exe
+c:\Projects\ConsoleApp.HelloWrold\bin\Debug\net8.0\ConsoleApp.HelloWrold.deps.json
+c:\Projects\ConsoleApp.HelloWrold\bin\Debug\net8.0\ConsoleApp.HelloWrold.runtimeconfig.json
+c:\Projects\ConsoleApp.HelloWrold\bin\Debug\net8.0\ConsoleApp.HelloWrold.dll
+c:\Projects\ConsoleApp.HelloWrold\bin\Debug\net8.0\ConsoleApp.HelloWrold.pdb
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.AssemblyInfoInputs.cache
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.AssemblyInfo.cs
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.csproj.CoreCompileInputs.cache
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.dll
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\refint\ConsoleApp.HelloWrold.dll
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.pdb
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ConsoleApp.HelloWrold.genruntimeconfig.cache
+c:\Projects\ConsoleApp.HelloWrold\obj\Debug\net8.0\ref\ConsoleApp.HelloWrold.dll
